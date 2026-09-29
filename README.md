@@ -361,7 +361,7 @@ Entre os principais conceitos praticados estão:
 
 **Bruno do Prado Rocha**
 
-[LinkedIn](https://www.linkedin.com/in/brunodprado/)
+[LinkedIn](www.linkedin.com/in/bruno-do-prado-rocha-16a1711a1)
 
 ---
 
