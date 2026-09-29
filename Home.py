@@ -9,7 +9,7 @@ st.set_page_config(
         page_icon="🏠", 
         layout="wide")
 
-st.sidebar.markdown("Desenvolvido por [Bruno do Prado Rocha](https://www.linkedin.com/in/brunodprado/)")
+st.sidebar.markdown("Desenvolvido por [Bruno do Prado Rocha](https://www.linkedin.com/in/bruno-do-prado-rocha-16a1711a1)")
 st.markdown("## Bem-vindo ao Analisador de vendas")
 st.divider()
 st.markdown(''' 
